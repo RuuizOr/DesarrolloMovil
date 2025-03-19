@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Ghibli",
+    "slug": "Ghibli",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/pg.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/pg.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/pg.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/pg.png"
+    }
+  }
+}
